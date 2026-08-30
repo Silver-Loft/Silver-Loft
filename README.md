@@ -4,8 +4,8 @@
 
 ### Building modern digital experiences for ambitious businesses.
 
-[![Website](https://img.shields.io/badge/Website-silverloft.com-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://[silverloft.com](https://silverloft.me/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SilverLoft-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/company/silverloft](https://www.linkedin.com/in/silver-loft-1a3334428/))
+[![Website](https://img.shields.io/badge/Website-silverloft.com-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://silverloft.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SilverLoft-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silver-loft-1a3334428/)
 [![Email](https://img.shields.io/badge/Email-Contact_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@silverloft.me)
 
 </div>
@@ -109,7 +109,7 @@ Let's turn it into a working product.
 <div align="center">
 
 📩 **Contact:** [your-email@example.com](mailto:contact@silverloft.me)
-🌐 **Website:** [silverloft.com](https://[silverloft.com](https://silverloft.me/))
-💼 **LinkedIn:** [SilverLoft LinkedIn](https://linkedin.com/company/silverloft](https://www.linkedin.com/in/silver-loft-1a3334428/))
+🌐 **Website:** [silverloft.com](https://silverloft.me/)
+💼 **LinkedIn:** [SilverLoft LinkedIn](https://www.linkedin.com/in/silver-loft-1a3334428/)
 
 </div>
