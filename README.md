@@ -108,8 +108,8 @@ Let's turn it into a working product.
 
 <div align="center">
 
-📩 **Contact:** [your-email@example.com](mailto:contact@silverloft.me)
-🌐 **Website:** [silverloft.com](https://silverloft.me/)
+📩 **Contact:** [contact@silverloft.me](mailto:contact@silverloft.me)
+🌐 **Website:** [silverloft.me](https://silverloft.me/)
 💼 **LinkedIn:** [SilverLoft LinkedIn](https://www.linkedin.com/in/silver-loft-1a3334428/)
 
 </div>
